@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabin
 - 👀 I’m interested in games
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on noone
 - 📫 How to reach me ...
 - 😄 Pronouns: he
